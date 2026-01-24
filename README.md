@@ -14,6 +14,7 @@
 - Instead of treating all customers as one homogenous group, banks use segmentation to recognize the diversity in their market and tailor their products, services, marketing messages, and service delivery to meet the specific requirements of each segment. This allows the bank to operate more efficiently, enhance customer satisfaction, and also improve profitability.
 - Bases for Market Segmentation. Banks typically use a combination of different bases to create their segments. The main categories include: Demographic Segmentation: Dividing the market based on measurable population characteristics.
 - This base divides the market according to physical location, such as regions, cities, or neighborhoods. It allows DaintyBank to customize offers based on local economic conditions, like specialized agricultural loans in rural areas versus high-tech investment tools in urban hubs.
+- This approach categorizes customers based on their lifestyle, personality traits, and social values. By understanding whether a customer is a "Risk-Averse Saver" or a "Status-Conscious Spender," the bank can align its brand messaging with the customer’s internal motivations.
 
 ### Dataset :
 Please find dataset below:
