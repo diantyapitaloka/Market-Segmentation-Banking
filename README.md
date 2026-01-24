@@ -1,7 +1,7 @@
 ## ☂️🌂🌞 Market Segmentation Banking 🌞🌂☂️ 
 
 - The primary objectives of this analysis is to thoroughly examine customer segmentation to better understand the characteristics, behaviors, and purchasing patterns of DaintyBank’s customer base. By summarizing sales performance across different customer groups, this study aims to identify which segments contribute the most to revenues and which require further attention.
-- This method targets customers based on their current journey in life, such as getting married, buying a home, or entering retirement. Because financial needs shift drastically during these milestones, DaintyBank can provide timely products like mortgages or estate planning exactly when they become relevant.
+- This methods targets customers based on their current journey in life, such as getting married, buying a home, or entering retirement. Because financial needs shift drastically during these milestones, DaintyBank can provide timely products like mortgages or estate planning exactly when they become relevant.
 - Additionally, the analysis seeks to develop comprehensive customer personas that represent key target audiences, enabling more personalized and effective marketing strategies for banking industry.
 - Furthermore, the insights gained from this research will be used to uncover new business opportunities that can strengthen customer engagement and encourage greater adoption of DaintyBank’s financial products. Ultimately, this analysis supports data-driven decision-making, optimizes products offerings, and enhances long-term customer relationships.
 - AI and Machine Learning (ML) move segmentation beyond basic demographics (like age or income) to highly detailed behavioral, psychographic, and transactional segments.
