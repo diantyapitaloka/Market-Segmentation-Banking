@@ -15,9 +15,7 @@
 - Side-Hustle Solopreneurs, Individuals who maintain a full-time job while running small side businesses with cash flows that often mix with personal accounts. DaintyBank can offer automated financial reporting that uses smart categorization to help these users track the profit and loss of their micro-ventures.
 - The Crypto-Curious Investors, This segment regularly transfers funds to digital asset exchanges and shows a high interest in diversifying into alternative portfolios. The bank can act as a secure bridge by providing crypto-asset tracking features directly within the main banking app to offer a holistic view of their wealth.
 - Social Impact Philanthropists, These users show consistent transaction patterns toward non-profits, charities, or community fundraising campaigns. To build loyalty, DaintyBank can provide an automated "round-up" feature where transaction change is donated to partner social institutions that align with the user's interests.
-
-The Hyper-Local Enthusiasts
-A group whose spending occurs primarily at MSMEs and local businesses within their immediate residential or office vicinity. An effective strategy involves offering double loyalty points or specific cashback at local partner merchants to support the regional micro-economic ecosystem.
+- The Hyper-Local Enthusiasts, A group whose spending occurs primarily at MSMEs and local businesses within their immediate residential or office vicinity. An effective strategy involves offering double loyalty points or specific cashback at local partner merchants to support the regional micro-economic ecosystem.
 
 Emergency-First Savers
 Customers who prioritize financial security above all else and maintain high balances in non-competitive savings accounts. The bank can offer automated conversions into short-term deposits or liquid money market funds, allowing users to gain higher yields without losing the peace of mind of instant emergency access.
