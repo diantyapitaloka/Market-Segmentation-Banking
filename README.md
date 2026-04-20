@@ -13,9 +13,7 @@
 - The Debt-Averse Millennial Parents, Young parents who are highly cautious about consumer debt and prefer products based on long-term savings or children’s education insurance. The best approach is offering automated "savings pots" that separate education funds from daily operational balances to ensure family financial security.
 - Subscription-Heavy Households, Customers whose spending is dominated by recurring digital services such as streaming, productivity software, and gym memberships. AI can provide a centralized subscription management dashboard that alerts users to price hikes or services that have remained unused for long periods.
 - Side-Hustle Solopreneurs, Individuals who maintain a full-time job while running small side businesses with cash flows that often mix with personal accounts. DaintyBank can offer automated financial reporting that uses smart categorization to help these users track the profit and loss of their micro-ventures.
-
-The Crypto-Curious Investors
-This segment regularly transfers funds to digital asset exchanges and shows a high interest in diversifying into alternative portfolios. The bank can act as a secure bridge by providing crypto-asset tracking features directly within the main banking app to offer a holistic view of their wealth.
+- The Crypto-Curious Investors, This segment regularly transfers funds to digital asset exchanges and shows a high interest in diversifying into alternative portfolios. The bank can act as a secure bridge by providing crypto-asset tracking features directly within the main banking app to offer a holistic view of their wealth.
 
 Social Impact Philanthropists
 These users show consistent transaction patterns toward non-profits, charities, or community fundraising campaigns. To build loyalty, DaintyBank can provide an automated "round-up" feature where transaction change is donated to partner social institutions that align with the user's interests.
