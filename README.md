@@ -10,9 +10,7 @@
 - These "HENRYs" (High Earners, Not Rich Yet) maintain low liquid balances but exhibit high-velocity spending and frequent transfers to external brokerages. By offering premium perks based on monthly deposit volume rather than total assets, the bank secures loyalty before these clients reach high-net-worth status.
 - This segment consists of customers who frequently perform cross-border transactions and manage multiple currencies in their daily lives. DaintyBank can integrate multi-currency wallets with low conversion fees and automated travel insurance that activates based on real-time transaction location data.
 - Silver Tech Adopters, This group includes senior customers who are increasingly active in digital banking but still require a high level of personal assistance. Services can be optimized through a simplified app UI with high-contrast icons and priority access to human support via voice or video calls.
-
-The Debt-Averse Millennial Parents
-Young parents who are highly cautious about consumer debt and prefer products based on long-term savings or children’s education insurance. The best approach is offering automated "savings pots" that separate education funds from daily operational balances to ensure family financial security.
+- The Debt-Averse Millennial Parents, Young parents who are highly cautious about consumer debt and prefer products based on long-term savings or children’s education insurance. The best approach is offering automated "savings pots" that separate education funds from daily operational balances to ensure family financial security.
 
 Subscription-Heavy Households
 Customers whose spending is dominated by recurring digital services such as streaming, productivity software, and gym memberships. AI can provide a centralized subscription management dashboard that alerts users to price hikes or services that have remained unused for long periods.
