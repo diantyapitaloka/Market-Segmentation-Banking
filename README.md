@@ -50,6 +50,7 @@
 - This base divides the market according to physical location, such as regions, cities, or neighborhoods. It allows DaintyBank to customize offers based on local economic conditions, like specialized agricultural loans in rural areas versus high-tech investment tools in urban hubs.
 - This approach categorizes customers based on their lifestyle, personality traits, and social values. By understanding whether a customer is a "Risk-Averse Saver" or a "Status-Conscious Spender," the bank can align its brand messaging with the customer’s internal motivations.
 - This focuses on specific customer actions, such as transaction frequency, brand loyalty, and preferred banking channels. AI can analyze these patterns to distinguish between "Digital-First" users who prefer mobile apps and "Traditionalists" who value face-to-face interactions at a branch.
+- By analyzing historical trading frequency and loss tolerance, DaintyBank can categorize users into conservative, moderate, or aggressive risk segments. This allows for the delivery of personalized portfolio rebalancing alerts that prevent impulsive financial decisions during periods of high market volatility.
 
 ### Dataset :
 Please find dataset below:
