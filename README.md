@@ -66,6 +66,7 @@
 - This focuses on specific customer actions, such as transaction frequency, brand loyalty, and preferred banking channels. AI can analyze these patterns to distinguish between "Digital-First" users who prefer mobile apps and "Traditionalists" who value face-to-face interactions at a branch.
 - By analyzing historical trading frequency and loss tolerance, DaintyBank can categorize users into conservative, moderate, or aggressive risk segments. This allows for the delivery of personalized portfolio rebalancing alerts that prevent impulsive financial decisions during periods of high market volatility.
 - This segment identifies "Spontaneous Spenders" versus "Strategic Savers" by monitoring the velocity and timing of discretionary purchases. Tailored nudges can help impulsive users set up automated "rainy day" transfers, while savers receive exclusive high-yield opportunities to maximize their idle capital.
+- This segment faces immense emotional and financial stress. The bank can introduce "Sandwich Generation Support Hubs," offering specialized joint-account controls for parental asset management, fiduciary checking accounts, and pre-vetted eldercare financial advisory services.
 - 
 
 ### Dataset :
